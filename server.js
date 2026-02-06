@@ -4,11 +4,15 @@ import 'colors'
 import morgan from 'morgan';
 import cors from 'cors';
 import testRoutes from './routes/testRoutes.js';
+import connectDB from './config/db.js';
 
 
 
 //coning env var
 dotenv.config();
+
+//database
+connectDB();
 
 //test object
 const app=express()
