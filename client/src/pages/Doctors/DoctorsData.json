@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "name":"Dr. John Doe",
+        "specialization":"dentist",
+        "pic":"https://imgs.search.brave.com/I_vRdrr9JtvB71WasZbqU05tw2l7mYOOyRvcwtAShEU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS12ZWN0b3Iv/Ymx1ZS1jaXJjbGUt/d2l0aC13aGl0ZS11/c2VyXzc4MzcwLTQ3/MDcuanBnP3NlbXQ9/YWlzX2h5YnJpZCZ3/PTc0MCZxPTgw",
+        "degree":"MD in Dental",
+        "about":"lorem50",
+        "experience":"5",
+        "available":true,
+        "fee":100,
+        "icon":"fa-solid fa-teeth"
+    }
+]

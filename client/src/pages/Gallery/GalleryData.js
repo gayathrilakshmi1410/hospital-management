@@ -1,0 +1,23 @@
+export const photos=
+[
+{
+    "src":".\banner1.webp",
+    "width":800,
+    "height":600
+},
+{
+    "src":"https://pixabay.com/images/download/x-2105208_1920.jpg",
+    "width":800,
+    "height":600
+},
+{
+    "src":"https://pixabay.com/images/download/x-4904920_1920.jpg",
+    "width":800,
+    "height":600
+},
+{
+    "src":"https://pixabay.com/images/download/x-5979687_1920.jpg",
+    "width":800,
+    "height":600
+}
+]
